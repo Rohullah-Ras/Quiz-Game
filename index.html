@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wireframe project</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/main.js" defer></script>
+</head>
+
+<body>
+    <!-- 1ste pagina van 4 -->
+    <section class="page-1" id="startscherm">
+        <div class="page-1-1">
+            <h2 class="page-1-1-1">Welkom</h2>
+            <h4 class="page-1-1-2">Geef hier je uitleg over de quiz</h4>
+        </div>
+        <div class="page-1-2">
+            <ul class="page-1-2-ul">
+                <li class="page-1-2-1">
+                    <h3>Wat is je naam?</h3>
+                </li>
+                <li class="page-1-2-2">
+                    <input class="page-1-2-2-input" type="text" placeholder="Voer je naam in" id="name">
+                </li>
+                <li class="page-1-2-3">
+                    <button id="startQuizButton" class="page-1-2-3-button">Start quiz</button>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- 2de pagina van 4 -->
+    <section class="page-2" id="themascherm" style="display: none;">
+        <div class="page-2-1">
+            <h2><span class="page-2-1-1" id="spelerTeam1">[ speler naam ]</span></h2>
+            <h2 class="page-2-1-2">Hallo &nbsp;<span id="spelerNaam">[ speler naam ]</span>&nbsp; welke quiz wil je
+                spelen?</h2>
+        </div>
+        <div class="page-2-2">
+            <ul class="page-2-2-ul">
+                <li class="page-2-2-li-1" id="thema1">Thema 1</li>
+                <li class="page-2-2-li-2" id="thema2">Thema 2</li>
+                <li class="page-2-2-li-3" id="thema3">Thema 3</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- 3de pagina van 4 -->
+    <section class="page-3" id="quizVraag" style="display: none;">
+        <div class="page-3-1">
+            <h3 class="page-3-1-h3" id="vraag">Vraag 1: [Stel hier je vraag]</h3>
+            <ul class="page-3-1-ul">
+                <div class="page-3-1-li-1">
+                    <h2><span class="page-3-1-li-1-input" id="spelerTeam2">[ speler naam ]</span></h2>
+                </div>
+
+                <li class="page-3-1-li-2"><img id="vraagFoto" alt="Vraag Afbeelding" class="page-3-1-li-img" /></li>
+                <li class="page-3-1-li-3">
+                    <h2 class="page-3-1-li-3-h2" id="stopwatch">timer</h2>
+                </li>
+            </ul>
+            <ul id="antwoordOpties" class="page-3-2">
+                <li class="page-3-2-1-li">Antwoord 1</li>
+                <li class="page-3-2-1-li">Antwoord 2</li>
+                <li class="page-3-2-2-li">Antwoord 3</li>
+                <li class="page-3-2-2-li">Antwoord 4</li>
+            </ul>
+        </div>
+    </section>
+
+
+
+    <!-- 4de pagina van 4 -->
+    <section class="page4">
+        <section class="page-4" id="score" style="display: none;">
+            <h3 class="page-4-1">Gefeliciteerd <span id="resultSpelerNaam">[naam van speler]</span> je hebt de quiz
+                afgerond! Je score is: <span id="scoreDisplay">[score]</span> van de <span
+                    id="maxScoreDisplay">[maximale
+                    score]</span>.</h3>
+            <h2 class="page-4-2">Het scoreboard</h2>
+
+            <!-- Scorebord wordt hier dynamisch geladen -->
+            <div class="pagina-4-div">
+
+                <ul id="scorebord" class="pagina-4-div-ul-1">
+                    <li class="pagina-4-div-ul-1-li">1 naam speler</li>
+                    <li class="pagina-4-div-ul-1-li">2 naam speler</li>
+                    <li class="pagina-4-div-ul-1-li">3 naam speler</li>
+                </ul>
+                <ul id="scoreRecord" class="pagina-4-div-ul-2">
+                </ul>
+            </div>
+            <div class="page-4-div-button">
+                <button id="restartButton" class="page-4-button">Doe de quiz opnieuw</button>
+            </div>
+
+
+        </section>
+        <h3 class="pagina-4-3">Hieronder kun je zien hoe je het gedaan hebt: </h3>
+        <ul id="resultatenLijst" class="pagina-4-ul">
+            <li class="pagina-4-li">vraag 1:[Laat hier de vraag nogmaals zien]
+                Deze vraag had je [goed/fout]
+                jouw antwoord:[Laat het antwoord van de gebruiker zien]'/n'
+                het juiste antwoord:[laat het juiste antwoord zien]
+            </li>
+            <li class="pagina-4-li">
+                vraag 1:[Laat hier de vraag nogmaals zien]"/n"
+                Deze vraag had je [goed/fout]
+                jouw antwoord:[Laat het antwoord van de gebruiker zien]'/n'
+                het juiste antwoord:[laat het juiste antwoord zien]
+            </li>
+        </ul>
+    </section>
+</body>
+
+</html>

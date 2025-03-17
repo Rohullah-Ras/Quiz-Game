@@ -1,0 +1,198 @@
+{
+    "Aardrijkskunde": [
+        {
+            "vraag": "Wat is de hoofdstad van Nederland?",
+            "antwoorden": ["Amsterdam", "Den Haag", "Rotterdam", "Utrecht"],
+            "foto":["/foto's/1.png"],
+            "juisteAntwoord": "Amsterdam"
+        },
+        {
+            "vraag": "Wat is de grootste oceaan?",
+            "foto":["/foto's/2.png"],
+            "antwoorden": ["Atlantische Oceaan", "Indische Oceaan", "Arctische Oceaan", "Stille Oceaan"],
+            "juisteAntwoord": "Stille Oceaan"
+        },
+        {
+            "vraag": "Welke zee ligt tussen Europa en Afrika?",
+            "foto":["/foto's/3.png"],
+            "antwoorden": ["Middellandse Zee", "Noordzee", "Zwarte Zee", "Rode Zee"],
+            "juisteAntwoord": "Middellandse Zee"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Australië?",
+            "foto":["/foto's/4.png"],
+            "antwoorden": [" Sydney", "Melbourne", "Canberra", "Brisbane"],
+            "juisteAntwoord": "Canberra"
+        },
+        {
+            "vraag": "Welke rivier stroomt door Egypte?",
+            "foto":["/foto's/5.png"],
+            "antwoorden": ["Tigris", "Nijl", "Eufraat", "Amazone"],
+            "juisteAntwoord": "Nijl"
+        },
+        {
+            "vraag": "Wat is de grootste woestijn ter wereld?",
+            "foto":["/foto's/6.png"],
+            "antwoorden": ["Sahara", "Gobi", " Kalahari", "Antarctica"],
+            "juisteAntwoord": "Antarctica"
+        },
+        {
+            "vraag": "Welke lijn verdeelt de aarde in het noordelijk en zuidelijk halfrond?",
+            "foto":["/foto's/7.png"],
+            "antwoorden": ["Greenwich-meridiaan", "Evenaar", "Nulmeridiaan", "Poolcirkel"],
+            "juisteAntwoord": "Evenaar"
+        },
+        {
+            "vraag": "Wat is de langste rivier in de wereld?",
+            "foto":["/foto's/8.png"],
+            "antwoorden": ["Nijl", "Amazone", "Mississippi", "Jangtse"],
+            "juisteAntwoord": "Amazone"
+        },
+        {
+            "vraag": "Welk land heeft de meeste inwoners?",
+            "foto":["/foto's/9.png"],
+            "antwoorden": ["Verenigde Staten", "India", "China", "Indonesië"],
+            "juisteAntwoord": "China"
+        },
+        {
+            "vraag": "In welke oceaan ligt Madagaskar?",
+            "foto":["/foto's/10.png"],
+            "antwoorden": ["Atlantische Oceaan", "Indische Oceaan", "Stille Oceaan", "Noordelijke IJszee"],
+            "juisteAntwoord": "Indische Oceaan"
+        }
+    ],
+
+
+
+    "Geschiedenis": [
+        {
+            "vraag": "Wie was de eerste president van de Verenigde Staten?",
+            "foto":["/foto's/11.png"],
+            "antwoorden": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+            "juisteAntwoord": "George Washington"
+        },
+        {
+            "vraag": "In welk jaar begon de Tweede Wereldoorlog?",
+            "foto":["/foto's/12.png"],
+            "antwoorden": ["1941", "1914", "1929", "1939"],
+            "juisteAntwoord": "1939"
+        },
+        {
+            "vraag": "Wie was de eerste keizer van het Romeinse Rijk?",
+            "foto":["/foto's/13.png"],
+            "antwoorden": ["Julius Caesar", "Augustus", "Nero", "Trajanus"],
+            "juisteAntwoord": "Augustus"
+        },
+        {
+            "vraag": "Wat was de naam van het schip waarmee de Pilgrims in 1620 naar Amerika reisden?",
+            "foto":["/foto's/15.png"],
+            "antwoorden": ["Santa Maria", "Mayflower", "Titanic", "Beagle"],
+            "juisteAntwoord": "Mayflower"
+        },
+        {
+            "vraag": "Wie schilderde de Mona Lisa?",
+            "foto":["/foto's/16.png"],
+            "antwoorden": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Rembrandt"],
+            "juisteAntwoord": "Leonardo da Vinci"
+        },
+        {
+            "vraag": "Wat was de belangrijkste oorzaak van de Franse Revolutie?",
+            "foto":["/foto's/17.png"],
+            "antwoorden": ["Tekort aan voedsel", "Invasie door een ander land", "Ontdekking van Amerika", "Belastingen en ongelijkheid"],
+            "juisteAntwoord": "Belastingen en ongelijkheid"
+        },
+        {
+            "vraag": "Welke uitvinding wordt toegeschreven aan Johannes Gutenberg?",
+            "foto":["/foto's/18.png"],
+            "antwoorden": ["Microscoop", "Stoommachine", "Boekdrukkunst", "Telescoop"],
+            "juisteAntwoord": "Boekdrukkunst"
+        },
+        {
+            "vraag": "Wie was de leider van de Sovjet-Unie tijdens de Tweede Wereldoorlog?",
+            "foto":["/foto's/19.png"],
+            "antwoorden": ["Vladimir Lenin", "Josef Stalin", "Nikita Chroesjtsjov", "Leon Trotski"],
+            "juisteAntwoord": "Josef Stalin"
+        },
+        {
+            "vraag": "Wat betekende het Marshallplan na de Tweede Wereldoorlog?",
+            "foto":["/foto's/20.png"],
+            "antwoorden": ["Een militaire alliantie", "Economische hulp aan Europa", "De verdeling van Duitsland", "Oprichting van de Verenigde Naties"],
+            "juisteAntwoord": "Economische hulp aan Europa"
+        },
+        {
+            "vraag": "In welk jaar vond de Nederlandse onafhankelijkheidsverklaring, ook wel het Plakkaat van Verlatinghe, plaats?",
+            "foto":["/foto's/21.png"],
+            "antwoorden": ["1568", "1581", "1609", "1648"],
+            "juisteAntwoord": "1581"
+        }
+
+    ],
+
+
+
+
+    "Random": [
+        {
+            "vraag": "Wat is het chemische symbool voor goud?",
+            "foto":["/foto's/22.png"],
+            "antwoorden": ["Au", "Ag", "Hg", "Fe"],
+            "juisteAntwoord": "Au"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Canada?",
+            "foto":["/foto's/23.png"],
+            "antwoorden": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+            "juisteAntwoord": "Ottawa"
+        },
+        {
+            "vraag": "Welke kleur krijg je als je blauw en geel mengt?",
+            "foto":["/foto's/24.png"],
+            "antwoorden": ["Rood", "Groen", "Paars", "Oranje"],
+            "juisteAntwoord": "Groen"
+        },
+        {
+            "vraag": "In welk jaar landde de mens voor het eerst op de maan?",
+            "foto":["/foto's/25.png"],
+            "antwoorden": ["1965", "1971", "1975", "1969"],
+            "juisteAntwoord": "1969"
+        },
+        {
+            "vraag": "Hoeveel poten heeft een spin?",
+            "foto":["/foto's/26.png"],
+            "antwoorden": ["8", "6", " 10", " 12"],
+            "juisteAntwoord": "8"
+        },
+        {
+            "vraag": "Wat is de grootste planeet in ons zonnestelsel?",
+            "foto":["/foto's/27.png"],
+            "antwoorden": ["Mars", "Aarde", "Jupiter", "Venus"],
+            "juisteAntwoord": "Jupiter"
+        },
+        {
+            "vraag": "Wie schreef Harry Potter?",
+            "foto":["/foto's/28.png"],
+            "antwoorden": ["Stephen King", "J.K. Rowling", "Suzanne Collins", "Roald Dahl"],
+            "juisteAntwoord": "J.K. Rowling"
+        },
+        {
+            "vraag": "Wat is het kleinste bot in het menselijk lichaam?",
+            "foto":["/foto's/29.png"],
+            "antwoorden": ["Stijgbeugel", "Scheenbeen", "Spaakbeen", "Sleutelbeen"],
+            "juisteAntwoord": "Stijgbeugel"
+        },
+        {
+            "vraag": "Welke stad staat bekend als de Stad van het Licht?",
+            "foto":["/foto's/30.png"],
+            "antwoorden": ["Londen", "Rome", " Parijs", " New York"],
+            "juisteAntwoord": " Parijs"
+        },
+        {
+            "vraag": "Welke Nederlandse stad staat bekend om de kaasmarkt?",
+            "foto":["/foto's/31.png"],
+            "antwoorden": ["Gouda", "Alkmaar", "Edam", "Leiden"],
+            "juisteAntwoord": "Alkmaar"
+        }
+    ]
+
+
+}
